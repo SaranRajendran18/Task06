@@ -1,0 +1,13 @@
+body{
+    border: 1px solid lightgray;
+    padding-left: 10px;
+    padding-top: 0px;
+    margin: 20px 300px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+h6{
+    font-size: 15px;
+}
+span{
+    color:red;
+}
